@@ -1,0 +1,6 @@
+Keras==2.0.4
+pandas==0.19.2
+Twisted==17.1.0
+PyAudio==0.2.11
+numpy==1.12.1
+scikit_learn==0.18.1
